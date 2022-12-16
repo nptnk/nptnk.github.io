@@ -1,0 +1,17 @@
+
+id : f1863044-4896-4db9-a136-77ac4ba08b3d
+
+github : ZedDevStuff/UKMusicReplacement
+
+contributors:
+
+    -   ZedDevStuff
+
+loaders:
+
+    -   BepInEx
+    -   UMM
+
+description: |
+
+    Ultrakill mod allowing users to use custom songs in regular (non boss or special) levels

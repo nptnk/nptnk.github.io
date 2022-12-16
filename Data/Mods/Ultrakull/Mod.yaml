@@ -1,0 +1,18 @@
+
+id : d32a69e9-2468-4812-9e12-ef3482a9d62f
+
+github : ClearwaterTM/UltrakULL
+
+recommended : true
+
+contributors:
+
+    -   Clearwater
+
+loaders:
+
+    -   BepInEx
+
+description: |
+
+    ULTRAKILL language translation and localization into various languages.

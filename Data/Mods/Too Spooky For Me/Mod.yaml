@@ -1,0 +1,17 @@
+
+id : e8c469ac-489f-425a-8939-c2f1f095be0c
+
+github : distributivgesetz/2Spooky4Me
+
+loaders:
+
+    -   BepInEx
+
+contributors:
+
+    -   Distrilul_
+    -   Heckteck
+
+description: |
+
+    Configure seasonal events for ULTRAKILL.

@@ -1,0 +1,19 @@
+
+id : 3d7e9320-c37a-4c58-bdba-e8ff54617873
+
+github : Hydraxous/EasyPZ-ULTRAKILL
+
+recommended : true
+
+contributors:
+
+    -   Hydraxous
+
+loaders:
+
+    -   BepInEx
+
+
+description: |
+
+    Tiny QoL mod for ULTRAKILL to give you a bit more info about the P rank requirements, restart hotkeys, and automatic restarts.

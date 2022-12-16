@@ -1,0 +1,16 @@
+
+id : 4d532454-2f1e-40a3-8017-de5a6b1080b7
+
+github : BobbyShmurner/CGCustomWaves
+
+contributors:
+
+    -   BobbyShmurner
+
+loaders:
+
+    -   BepInEx
+
+description: |
+
+    A mod that lets you set a custom wave for The Cyber Grind.

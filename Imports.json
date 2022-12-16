@@ -1,0 +1,18 @@
+{
+    "imports" : {
+
+        "FileSystem" : "https://deno.land/std@0.167.0/fs/mod.ts" ,
+        "YAML" : "https://deno.land/std@0.167.0/encoding/yaml.ts" ,
+        "Path" : "https://deno.land/std@0.167.0/path/mod.ts" ,
+
+        "CleanCSS" : "npm:clean-css@5.3.1" ,
+        "HtmlMinifier" : "npm:html-minifier@4.0.0" ,
+
+        "Minify" : "./Source/x/Minify.js" ,
+        "Paths" : "./Source/x/Paths.js" ,
+        "Find" : "./Source/x/Find.js" ,
+        "Html" : "./Source/x/Html.js" ,
+        "Card" : "./Source/Components/Card.js" ,
+        "Mods" : "./Source/Mods/mod.js"
+    }
+}
